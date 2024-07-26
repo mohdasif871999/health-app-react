@@ -1,5 +1,3 @@
-Project Live preivew link ►https://healthcaress.netlify.app/ website This project is based on a Healthcare hospitalsservice in this project and the technology is used here is react js.
-
 In this site we have these features and services
 
     𝟏-𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞 𝐍𝐚𝐯𝐛𝐚𝐫
